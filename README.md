@@ -1,2 +1,2 @@
 # wbcdada.github.io
-My blog 
+https://wbcdada.github.io/
